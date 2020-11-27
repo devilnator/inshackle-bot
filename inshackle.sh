@@ -1,7 +1,7 @@
 C #!/bin/bash
 # Inshackle v1.0
 # coded by: Gamma Lord
-# github.com/rajnish2409/inshackle-bot
+# github.com/devilnator/inshackle-bot
 # If you use any part from this code, give me the credits, please, read the License
 
 
