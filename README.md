@@ -1,7 +1,7 @@
 # inshackle-bot
 # Instagram bot,auto follower
-## Recoded: github.com/rajnish2409/inshackle-bot
-## IG: instagram.com/gamma_lord
+## Recoded: github.com/devilnator/inshackle-bot
+## IG: instagram.com/devilnator.ig
 ### thanks to linuxchoice
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
